@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1727712651914,
+  "index": "https://github.com/PATIMOM0/lista.git/index.csr.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/PATIMOM0/lista.git/chunk-J6KUPBQT.js",
+        "https://github.com/PATIMOM0/lista.git/chunk-NI2D3W4E.js",
+        "https://github.com/PATIMOM0/lista.git/favicon.ico",
+        "https://github.com/PATIMOM0/lista.git/main-46KAMJCF.js",
+        "https://github.com/PATIMOM0/lista.git/manifest.webmanifest",
+        "https://github.com/PATIMOM0/lista.git/polyfills-SCHOHYNV.js",
+        "https://github.com/PATIMOM0/lista.git/styles-YGXLHK5N.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/PATIMOM0/lista.git/icons/icon-128x128.png",
+        "https://github.com/PATIMOM0/lista.git/icons/icon-144x144.png",
+        "https://github.com/PATIMOM0/lista.git/icons/icon-152x152.png",
+        "https://github.com/PATIMOM0/lista.git/icons/icon-192x192.png",
+        "https://github.com/PATIMOM0/lista.git/icons/icon-384x384.png",
+        "https://github.com/PATIMOM0/lista.git/icons/icon-512x512.png",
+        "https://github.com/PATIMOM0/lista.git/icons/icon-72x72.png",
+        "https://github.com/PATIMOM0/lista.git/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/PATIMOM0/lista.git/chunk-J6KUPBQT.js": "5156165e5efe7b98ddc4e943b2c1a4ee293e877e",
+    "https://github.com/PATIMOM0/lista.git/chunk-NI2D3W4E.js": "d82cce0325ab2e813e9f8a8a510752421df0d43d",
+    "https://github.com/PATIMOM0/lista.git/favicon.ico": "60d3840b6a52da8b63c7a8f4d985037618cb505c",
+    "https://github.com/PATIMOM0/lista.git/icons/icon-128x128.png": "7f6cd751732e631c7e397bc6896e80bb28642ef1",
+    "https://github.com/PATIMOM0/lista.git/icons/icon-144x144.png": "e3e7fe2d6eb1ce6bc2a29e5a4391e4da4b375e32",
+    "https://github.com/PATIMOM0/lista.git/icons/icon-152x152.png": "95837930dea6d071a5da371b4089cf456d5e162c",
+    "https://github.com/PATIMOM0/lista.git/icons/icon-192x192.png": "95a391e45995921753d9360098d8c3fadd6bb881",
+    "https://github.com/PATIMOM0/lista.git/icons/icon-384x384.png": "2054a99979090bd9ddd2945c65b130761762b9d9",
+    "https://github.com/PATIMOM0/lista.git/icons/icon-512x512.png": "c102da2c0cb5bdfe23cdf8d8bef5dd58d2f5ce6e",
+    "https://github.com/PATIMOM0/lista.git/icons/icon-72x72.png": "61194c98a0422568e28fbaf64de5da740da29c2b",
+    "https://github.com/PATIMOM0/lista.git/icons/icon-96x96.png": "46c3cae0b7f038e30e24c2de12e5c81731d55486",
+    "https://github.com/PATIMOM0/lista.git/main-46KAMJCF.js": "2e7e2f88d8c78bcfe9ee064c5f8999ac23be5442",
+    "https://github.com/PATIMOM0/lista.git/manifest.webmanifest": "2b1d6a14961b5b722e88eaf1c1138e8ce4cff753",
+    "https://github.com/PATIMOM0/lista.git/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
+    "https://github.com/PATIMOM0/lista.git/styles-YGXLHK5N.css": "d82c3b1860ec5753802afeba00ab55b75039cd34"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
