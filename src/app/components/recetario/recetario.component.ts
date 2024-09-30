@@ -28,7 +28,7 @@ export class RecetarioComponent {
     {
       titulo: 'huevos con frijol',
       descripcion: 'huevos con una paste de frijol',
-      ingredientes: ['2 de huvos', '1/2 frijoles', '1 dientes de ajo', '1/4 taza de aceite de oliva', 'Sal y pimienta al gusto'],
+      ingredientes: ['3 de huvos', '1/2 frijoles', '1 dientes de ajo', '1/4 taza de aceite de oliva', 'Sal y pimienta al gusto'],
       pasos: [
         'Cocinar los huevos con aceite de oliva',
         'moler el frijol con ajo, sal y pimienta',
